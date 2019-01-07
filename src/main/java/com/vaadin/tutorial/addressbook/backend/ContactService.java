@@ -1,4 +1,4 @@
-package com.vaadin.tutorial.addressbook.backend;
+ackage com.vaadin.tutorial.addressbook.backend;
 
 import org.apache.commons.beanutils.BeanUtils;
 
